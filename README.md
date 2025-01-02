@@ -1,7 +1,7 @@
 # Testing Agent Demo
 
 <p align="center">
-  <img src="assets/testing-agent-hero.png" alt="Testing Agent Demo — AI-powered automated testing" width="100%" />
+  <img src="docs/assets/testing-agent-hero.png" alt="Testing Agent Demo — AI-powered automated testing" width="100%" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ The sample application is included for demonstration only. The reusable automati
 ## Architecture & Execution Flow
 
 <p align="center">
-  <img src="assets/testing-agent-architecture-flow.png" alt="Testing Agent architecture and execution flow" width="100%" />
+  <img src="docs/assets/testing-agent-architecture-flow.png" alt="Testing Agent architecture and execution flow" width="100%" />
 </p>
 
 The end-to-end request flow is:
@@ -87,7 +87,7 @@ The agent interprets that goal and performs the required browser actions until t
 ## Core Components
 
 <p align="center">
-  <img src="assets/testing-agent-monorepo-overview.png" alt="Testing Agent monorepo structure and core components" width="100%" />
+  <img src="docs/assets/testing-agent-monorepo-overview.png" alt="Testing Agent monorepo structure and core components" width="100%" />
 </p>
 
 ### `frontend/`
